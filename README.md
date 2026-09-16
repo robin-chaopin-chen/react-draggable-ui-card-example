@@ -1,5 +1,7 @@
 # React Draggable UI card application
 
+If you want to implement draggable UI card for your React or Next.js application, try it out, it can surely help you.
+
 The application build the following tech stack combination.
 
 - React for UI and interaction design
@@ -15,7 +17,7 @@ git add .
 git commit -m "The Nth commit on date."
 git remote rm origin
 git branch -M main
-git remote add origin git@github.com:robin-artemstein/react-draggable-ui-card-app.git
+git remote add origin git@github.com:robin-chaopin-chen/react-draggable-ui-card-example.git
 git push -u origin main
 ```
 
